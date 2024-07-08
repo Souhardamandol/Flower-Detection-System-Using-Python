@@ -1,0 +1,15 @@
+# Flower Detection
+
+This project uses a convolutional neural network (CNN) to classify images of flowers into five categories: daisy, dandelion, rose, sunflower, and tulip.
+
+## Requirements
+
+- Python 3.x
+- TensorFlow
+- Keras
+- Numpy
+- Pillow
+- Matplotlib
+- Tkinter
+
+## Installation
