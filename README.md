@@ -1,4 +1,4 @@
-step 1: run the gui_ap.py file
+step 1: run the gui_app.py file
 
 
 
